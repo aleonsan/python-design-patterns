@@ -1,0 +1,7 @@
+__title__ = 'design_patterns'
+__description__ = 'Python design patterns examples'
+__url__ = 'https://github.com/aleonsan/design_patterns'
+__version__ = '0.0.1'
+__author__ = 'Alvaro Leon Santiago'
+__author_email__ = 'alvaroleonsantiago@gmail.com'
+__license__ = 'WTFPL'
