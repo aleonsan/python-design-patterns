@@ -1,5 +1,5 @@
 # Design Pattern: Singleton
-# Example descriptioni: There can be only one
+# Example description: There can be only one
 
 
 class Highlander:
