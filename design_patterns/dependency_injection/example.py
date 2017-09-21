@@ -39,7 +39,7 @@ def run_example(episode):
     # preface
     print("""
     ************************************************
-    Dependency Injection design pattern: Highlanders
+    Dependency Injection design pattern: Columbo 
     ************************************************
     """)
 
